@@ -1,3 +1,10 @@
+## Requirements for the program
+
+- Though the program should work in any IDE, use VS-Code for best results
+- Use debugging mode in VS-Code
+- You need MySQL database for this program
+- I have used MAMP for server connection to MySQL
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
